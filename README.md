@@ -1,4 +1,4 @@
-# 🧪 ASAP Image Analysis - Data Compilation Toolkit
+# 🧪 Image Analysis - Data Compilation Toolkit
 
 This repository contains a set of Python scripts developed to automate and standardize the compilation of quantitative data from immunohistochemistry image analyses performed using ImageJ/Fiji. These analyses include soma count and morphology of Iba1-positive microglia, arborisation features, and protein expression intensity for TH, DAT, and tdTomato in striatal regions of the mouse brain.
 
